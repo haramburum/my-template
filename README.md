@@ -1,1 +1,1 @@
-# my-template
+# Template
